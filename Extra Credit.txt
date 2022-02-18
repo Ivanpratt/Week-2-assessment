@@ -1,0 +1,23 @@
+Company of interest 1: Audi
+Stack determined by internet research: Javascript, Javascript Bootstrap, Java, also AWS softwares, Go|Rust|Haskell|Kotlin|Dart|Erlang , Figma, Sketch
+
+Job openings related to the Stack:
+https://karriere.audi.de/sap/bc/bsp/sap/z_hcmx_ui_ext/desktop.html#/DETAILS/8EE9983996021EDC90D96C6920590603/?CSREF=NULL
+https://karriere.audi.de/sap/bc/bsp/sap/z_hcmx_ui_ext/desktop.html#/DETAILS/8EE9983996021EDC90D92FFFA47605DB/?CSREF=NULL
+
+Company of interest 2: Google
+Stack determined by internet research: Python, Java, Android SDK, Go, C++, Preact, Angular JS, Kubernetes, TensorFlow
+
+Job openings related to the Stack:
+https://careers.google.com/jobs/results/85892708507230918-technical-writer-google-cloud-databases/
+https://careers.google.com/jobs/results/96402407581196998-quantum-systems-engineer-quantum-ai/
+https://careers.google.com/jobs/results/98283382183469766-customer-engineer-data-analytics-google-cloud/
+
+Company of Interest 3: Instagram
+Stack determined by internet research: React Native -iOS & Android apps. Python (Django framework) & HTML5JavaScript -server-side. Computing services -Amazon S3, Amazon, EBS, Amazon EC2.
+
+Job opeings related to the Stack: 
+https://about.instagram.com/careers/302260115134355/
+https://about.instagram.com/careers/439605514176879/
+https://about.instagram.com/careers/210745444532405/
+https://about.instagram.com/careers/256118346015521/
