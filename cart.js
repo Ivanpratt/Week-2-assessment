@@ -34,11 +34,10 @@ const cart = [
 ]
 
 
-//I do not know how to use the reduce() method to manipulate arrays of objects.
 
+const summedPrice = cart.reduce((accumulator, currentItem) => accumulator + currentItem.price, 0)
+console.log(summedPrice)
 
-
-// const summedPrice = cart.reduce(/* CALLBACK HERE */)
 
 
 //////////////////PROBLEM 2////////////////////
@@ -56,7 +55,12 @@ const cart = [
     decimals, for example: .06 for a 6% tax.
 */
 
-//CODE HERE
+calcFinalPrice = function(cartTotal, couponValue, tax) {
+    let finalvalue = (cartTotal * (1 - tax)) - couponValue
+    return finalvalue
+}
+
+console.log(calcFinalPrice(100, 10, 0.26))
 
 
 
